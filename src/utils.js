@@ -6,3 +6,4 @@ export function pointsForWord(word) {
     }
     return points;
   }
+  
